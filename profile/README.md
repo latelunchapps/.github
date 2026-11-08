@@ -1,32 +1,20 @@
 # A little late. Worth the wait. 🍅
 
-We’re **Late Lunch**, an indie app studio by [Ander Goig](https://github.com/AnderGoig).
+We’re **Late Lunch**, an independent app studio from Spain by [Ander Goig](https://github.com/AnderGoig).
 
 Small apps. Useful details. A little personality.
 
 ### On the menu
 
-🍀 &nbsp;**Eden** — Your Envato sales, without refreshing the dashboard.\
-🐙 &nbsp;**Octostack** — A pocket-sized home for Stack Exchange.\
-🟩 &nbsp;**GitHub Contributions** — Your contribution graph, closer to hand.\
-✨ &nbsp;**Sticker Creator Studio** — Make something worth sticking in a chat.
+🍀 &nbsp;**[Eden](https://eden.latelunch.app)** — Your Envato sales, without refreshing the dashboard.\
+🐙 &nbsp;**[Octostack](https://octostack.latelunch.app)** — A pocket-sized home for Stack Exchange.\
+🟩 &nbsp;**[GitHub Contributions](https://contributions.latelunch.app)** — Your contribution graph, closer to hand.\
+✨ &nbsp;**[Sticker Creator Studio](https://stickers.latelunch.app)** — Make something worth sticking in a chat.
+
+### Open kitchen
+
+**GitHub Contributions** is open source. Have a look around [the repo](https://github.com/latelunchapps/github-contributions-ios), open an issue, or send a pull request.
 
 ---
 
-<a href="https://latelunch.app">
-<img src="https://img.shields.io/badge/Website-363432?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Late Lunch website" />
-</a>
-<a href="mailto:hello@latelunch.app">
-<img src="https://img.shields.io/badge/Say hello!-E05243?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Late Lunch support" />
-</a>
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Late Lunch website](https://img.shields.io/badge/Website-363432?style=for-the-badge&logo=googlechrome&logoColor=white)](https://latelunch.app) [![Say hello to Late Lunch by email](https://img.shields.io/badge/Say%20hello!-E05243?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@latelunch.app)
