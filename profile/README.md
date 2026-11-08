@@ -13,7 +13,14 @@ Small apps. Useful details. A little personality.
 
 ---
 
-[Website](https://latelunch.app) · [Say hello](mailto:support@latelunch.app)
+<p align="left">
+  <a href="https://latelunch.app">
+    <img src="https://img.shields.io/badge/Website-363432?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Late Lunch website" />
+  </a>
+  <a href="mailto:support@latelunch.app">
+    <img src="https://img.shields.io/badge/Email-E05243?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Late Lunch support" />
+  </a>
+</p>
 
 <!--
 
