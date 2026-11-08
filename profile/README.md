@@ -13,14 +13,12 @@ Small apps. Useful details. A little personality.
 
 ---
 
-<p align="left">
-  <a href="https://latelunch.app">
-    <img src="https://img.shields.io/badge/Website-363432?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Late Lunch website" />
-  </a>
-  <a href="mailto:support@latelunch.app">
-    <img src="https://img.shields.io/badge/Email-E05243?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Late Lunch support" />
-  </a>
-</p>
+<a href="https://latelunch.app">
+<img src="https://img.shields.io/badge/Website-363432?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Late Lunch website" />
+</a>
+<a href="mailto:hello@latelunch.app">
+<img src="https://img.shields.io/badge/Say hello!-E05243?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Late Lunch support" />
+</a>
 
 <!--
 
