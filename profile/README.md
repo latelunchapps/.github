@@ -6,13 +6,10 @@ Small apps. Useful details. A little personality.
 
 ### On the menu
 
-🍀 **Eden** — Your Envato sales, without refreshing the dashboard.
-
-🐙 **Octostack** — A pocket-sized home for Stack Exchange.
-
-🟩 **GitHub Contributions** — Your contribution graph, closer to hand.
-
-✨ **Sticker Creator Studio** — Make something worth sticking in a chat.
+🍀 &nbsp;**Eden** — Your Envato sales, without refreshing the dashboard.\
+🐙 &nbsp;**Octostack** — A pocket-sized home for Stack Exchange.\
+🟩 &nbsp;**GitHub Contributions** — Your contribution graph, closer to hand.\
+✨ &nbsp;**Sticker Creator Studio** — Make something worth sticking in a chat.
 
 ---
 
